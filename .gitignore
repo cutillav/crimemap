@@ -1,0 +1,8 @@
+# Virtualenv
+.Python
+bin
+lib
+include
+*.py[cod]
+dbconfig.py
+*.pyc
